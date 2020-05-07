@@ -1,0 +1,4 @@
+#spring1 initializer
+com.spring.appcontext.init.ISpringFactoryInitializer=\
+  com.spring.appcontext.init.Spring1FactoryInitImpl,\
+  com.spring.appcontext.init.Spring2FactoryInitImpl
