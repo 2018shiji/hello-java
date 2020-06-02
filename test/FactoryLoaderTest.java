@@ -1,7 +1,7 @@
-import com.spring.appcontext.SpringFactoryLoader;
-import com.spring.appcontext.init.ISpringFactoryInitializer;
-import com.spring.appcontext.init.Spring1FactoryInitImpl;
-import com.spring.appcontext.init.Spring2FactoryInitImpl;
+import com.spring.factoryLoader.Spring1FactoryInitImpl;
+import com.spring.factoryLoader.Spring2FactoryInitImpl;
+import com.spring.factoryLoader.SpringFactoryLoader;
+import com.spring.factoryLoader.ISpringFactoryInitializer
 import org.junit.Assert;
 import org.junit.Test;
 

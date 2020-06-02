@@ -1,4 +1,4 @@
-package com.spring.appcontext.init;
+package com.spring.factoryLoader;
 
 public interface ISpringFactoryInitializer {
 }
